@@ -1,0 +1,10 @@
+Emotion,Intensity,IntensityLabel,Recognition,SD
+Happy,1,Low (10–30%),0.16,0.09
+Happy,2,Medium (40–60%),0.72,0.14
+Happy,3,High (70–90%),0.93,0.08
+Angry,1,Low (10–30%),0.08,0.06
+Angry,2,Medium (40–60%),0.62,0.15
+Angry,3,High (70–90%),0.89,0.12
+Sad,1,Low (10–30%),0.12,0.08
+Sad,2,Medium (40–60%),0.55,0.14
+Sad,3,High (70–90%),0.82,0.12
